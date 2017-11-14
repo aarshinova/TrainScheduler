@@ -1,4 +1,5 @@
-0. To run the project, you can do it with Maven:
+
+0. To run the project, use Maven commands:
 - go into project directory
 - run command "mvn test"
 
